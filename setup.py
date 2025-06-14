@@ -23,5 +23,6 @@ setup(
     author='Iqra',
     author_email='shaikhiqar1503@gmail.com',
     packages=find_packages(),
-    install_requires=get_requirements('requirements.txt'),
+    install_requires=get_requirements('requirement.txt'),  
 )
+
