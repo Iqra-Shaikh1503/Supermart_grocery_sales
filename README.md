@@ -76,9 +76,6 @@ This project explores a fictional dataset representing grocery sales transaction
 - Create a **Streamlit dashboard** for real-time sales prediction
 - Integrate with **Power BI/Tableau** for business intelligence
 
-## 📎 References
-
-- [Project Notebook & Code](https://github.com/sushantag9/Supermarket-Sales-Data-Analysis)
 
 ## 🧠 Skills Demonstrated
 
@@ -87,3 +84,9 @@ This project explores a fictional dataset representing grocery sales transaction
 - Supervised learning (regression)
 - Business and retail analytics
 - Feature engineering and model evaluation
+
+## 👩‍💻 Author
+
+Iqra Shaikh
+Data Scientist | Machine Learning Enthusiast
+📧 Contact: [shaikhiqra1503@gmail.com]
